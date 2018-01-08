@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "test2",
   "description": "lambda-uploader w/ 3rd party packages",
   "region": "us-west-2",
-  "handler": "test.lambda_handler",
+  "handler": "test2.lambda_handler",
   "role": "arn:aws:iam::015126064570:role/codeship",
   "timeout": 300,
   "memory": 128
