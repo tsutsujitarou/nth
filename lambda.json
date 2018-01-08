@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "description": "lambda-uploader w/ 3rd party packages",
+  "handler": "test.lambda_handler",
+  "role": "arn:aws:iam::015126064570:role/service-role/testrole",
+  "timeout": 300,
+  "memory": 128
+}
